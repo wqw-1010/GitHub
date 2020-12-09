@@ -6,3 +6,4 @@ git diff
 git log
 pwd
 GitHub
+git checkout -b 1
